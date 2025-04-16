@@ -1,6 +1,6 @@
 # 📧 Newsletter Sign-Up Form – Frontend Mentor Challenge
 
-Este projeto é uma solução para o desafio de nível júnior do [Frontend Mentor](https://www.frontendmentor.io/). O desafio propõe a criação de um formulário de inscrição para uma newsletter, com foco em validação de formulário, responsividade e feedback visual ao usuário. O objetivo principal é reforçar conhecimentos de HTML, CSS e JavaScript em um contexto prático.
+Este projeto é uma solução para o desafio de nível júnior do [Frontend Mentor][(https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message). O desafio propõe a criação de um formulário de inscrição para uma newsletter, com foco em validação de formulário, responsividade e feedback visual ao usuário. O objetivo principal é reforçar conhecimentos de HTML, CSS e JavaScript em um contexto prático.
 
 ## 💡 Descrição do Desafio
 
@@ -24,8 +24,8 @@ O usuário deve ser capaz de:
 
 O layout foi desenvolvido para se adaptar bem a diferentes tamanhos de tela, garantindo uma boa experiência tanto em dispositivos móveis quanto em desktops.
 
-## 🚀 Como Rodar o Projeto
+## 🚀 Como Acessar o Projeto
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
+Você pode visualizar o projeto online através do GitHub Pages, clicando no link abaixo:
+
+👉 **[Acessar Projeto](https://menesesmaria.github.io/newsletter-sign-up-with-success-message-main/)**
